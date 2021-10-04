@@ -1,0 +1,4 @@
+- Change "Ctrl + D" to duplicate line like in Jetbrains Rider
+  - Click File > Preferences > Keyboard Shortcuts:
+  - Copy Line Down setting
+  - [Reference](https://stackoverflow.com/questions/38727047/duplicate-line-in-visual-studio-code)
