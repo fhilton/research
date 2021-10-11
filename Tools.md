@@ -1,4 +1,5 @@
 # Tools
 
-- Search Everything
 - AutoHotKey
+- Search Everything
+- Visual Studio Code
