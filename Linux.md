@@ -1,3 +1,11 @@
+## Open port Ubuntu
+
+- List open ports
+    - ufw status verbose
+- Open port for Minecraft
+    - sudo ufw allow 25565/tcp
+- https://www.cyberciti.biz/faq/how-to-open-firewall-port-on-ubuntu-linux-12-04-14-04-lts/
+
 ## Install Java 17 on Ubuntu
 
 -  curl https://download.oracle.com/java/17/latest/jdk-17_linux-x64_bin.deb --output
