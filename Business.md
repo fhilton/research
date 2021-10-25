@@ -11,3 +11,5 @@
 - Books
 - Tools
   - [Freshbooks Accounting](https://www.freshbooks.com/)
+- Platforms to integrate with or extend
+  - [Squarespace](https://www.squarespace.com/extensions/home)
